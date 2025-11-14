@@ -1,16 +1,15 @@
-## Hi there 👋
+## Crysthamus ![](https://img.shields.io/github/last-commit/Crysthamus/Crysthamus)
+Hi, I am a CS student who loves to write fun and useful programs for all to use :).
+You could out to me on my discord `crysthamus`, by mailing me at `crysthamus@gmail.com` or through my website.
+I am currently learning `rust`, `go` and rendering concepts. I love working with `C++`, `Java`, `TypeScript` and `Python` and am currently creating a beautiful `fractal viewer`.
 
-<!--
-**Crysthamus/Crysthamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://raw.githubusercontent.com/Crysthamus/githubStats/refs/heads/master/generated/overview.svg#gh-dark-mode-only" height="200" />
+  <img src="https://raw.githubusercontent.com/Crysthamus/githubStats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" height="200" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a href="https://crysthamus.com">website</a> •
+  <a href="https://leetcode.com/u/Crysthamus/">leetcode</a>
+</p>
