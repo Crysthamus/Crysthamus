@@ -1,6 +1,6 @@
 ## Crysthamus ![](https://img.shields.io/github/last-commit/Crysthamus/Crysthamus)
 Hi, I am a CS student who loves to write fun and useful programs for all to use :).
-You could out to me on my discord `crysthamus`, by mailing me at `crysthamus@gmail.com` or through my website.
+You could contact me on my discord `crysthamus`, by mailing me at `crysthamus@gmail.com` or through my website.
 I am currently learning `rust`, `go` and rendering concepts. I love working with `C++`, `Java`, `TypeScript` and `Python` and am currently creating a beautiful `fractal viewer`.
 
 <p>
