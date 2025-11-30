@@ -8,7 +8,12 @@ I am currently learning `rust`, `go` and rendering concepts. I love working with
   <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/languages.svg#gh-dark-mode-only" height="200" />
 </p>
 
-![](https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <p align="center">
   <a href="https://crysthamus.com">website</a> •
   <a href="https://leetcode.com/u/Crysthamus/">leetcode</a>
