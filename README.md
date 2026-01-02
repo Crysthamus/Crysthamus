@@ -4,8 +4,8 @@ You could contact me on my discord `crysthamus`, by mailing me at `crysthamus@gm
 I am currently learning `rust`, `go` and rendering concepts. I love working with `C++`, `Java`, `TypeScript` and `Python` and am currently creating a beautiful `fractal viewer`.
 
 <p>
-  <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/overview.svg#gh-dark-mode-only" height="200" />
-  <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/languages.svg#gh-dark-mode-only" height="200" />
+  <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/overview.svg" height="200" />
+  <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/languages.svg" height="200" />
 </p>
 
 <picture>
