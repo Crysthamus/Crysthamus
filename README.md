@@ -1,17 +1,27 @@
 ## Crysthamus ![](https://img.shields.io/github/last-commit/Crysthamus/Crysthamus)
-Hi, I am a CS student who loves to write fun and useful programs for all to use :).
-You could contact me on my discord `crysthamus`, by mailing me at `crysthamus@gmail.com` or through my website.
+
+Hi, I am a CS student who loves to write fun and useful programs for all to use :). 
+You could contact me on my discord `crysthamus`, by mailing me at `crysthamus@gmail.com` or through my website. 
 I am currently learning `rust`, `go` and rendering concepts. I love working with `C++`, `Java`, `TypeScript` and `Python` and am currently creating a beautiful `fractal viewer`.
 
-<p>
-  <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/overview.svg" height="200" />
-  <img src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/languages.svg" height="200" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/overview.svg#gh-light-mode-only">
+    <img alt="Overall Stats" src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/overview.svg" height="200">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/languages.svg#gh-light-mode-only">
+    <img alt="Languages" src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/languages.svg" height="200">
+  </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/refs/heads/master/generated/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/github-contribution-grid-snake.svg" />
 </picture>
 
 <p align="center">
