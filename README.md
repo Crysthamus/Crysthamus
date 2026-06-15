@@ -4,20 +4,6 @@ Hi, I am a CS student who loves to write fun and useful programs for all to use 
 You could contact me on my discord `crysthamus`, by mailing me at `crysthamus@gmail.com` or through my website. 
 I am currently learning `rust`, `go` and rendering concepts. I love working with `C++`, `Java`, `TypeScript` and `Python` and am currently creating a beautiful `fractal viewer`.
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/overview.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/overview.svg#gh-light-mode-only">
-    <img alt="Overall Stats" src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/overview.svg" height="200">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/languages.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/languages.svg#gh-light-mode-only">
-    <img alt="Languages" src="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/languages.svg" height="200">
-  </picture>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crysthamus/Crysthamus/master/generated/github-contribution-grid-snake.svg" />
