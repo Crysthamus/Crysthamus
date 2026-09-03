@@ -11,6 +11,5 @@ I am currently learning `rust`, `go` and rendering concepts. I love working with
 </picture>
 
 <p align="center">
-  <a href="https://crysthamus.com">website</a> •
-  <a href="https://leetcode.com/u/Crysthamus/">leetcode</a>
+  <a href="https://crysthamus.com">website</a>
 </p>
